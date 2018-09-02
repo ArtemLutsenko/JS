@@ -1,0 +1,19 @@
+.weraper {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    vertical-align: middle;    
+}
+
+.img {
+    height: 840px;
+    width: 840px;
+    background-image: url(../img/18_plus.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: table-cell;
+    padding: auto;
+    line-height: 840px;
+
+}
